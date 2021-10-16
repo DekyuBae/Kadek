@@ -40,16 +40,8 @@ Off in web nya
   <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_20888ybra1.jpg" />
 </p>
 
-## ```HOW TO DEPLOY```
-
-[`Click Here For Tutorial`](https://youtu.be/_CP2_1Yqauo)<br>
-
-----------
-
-<p align="center">
-  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
-</p>
-
+## `Deploy`
+[ ! [ Deploy ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zeeoneofc/tes-run-heroku/)
 
 ## ```COFFEE```
 
